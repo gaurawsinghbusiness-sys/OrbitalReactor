@@ -6,7 +6,7 @@
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Play_Now-06b6d4?style=for-the-badge)](https://ais-pre-5mwngptnrbw7plgf7d4a6q-12932369960.asia-east1.run.app)
 *(Note: Requires microphone permissions to play)*
 
-![Architecture Diagram](./orbital-meltdown-architecture.svg)
+![Architecture Diagram](./architecture.svg)
 
 ## ⚠️ The Crisis
 Current AI agents are often just static chatbots taking turns in a text box. **Orbital Meltdown** proves that the Gemini Live API can handle high-stress, low-latency, stateful UI experiences. 
