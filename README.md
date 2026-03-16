@@ -35,6 +35,13 @@ You are the captain of an orbital station experiencing a catastrophic core breac
 ### How the State Works
 The Next.js frontend acts as the source of truth for the game state (timer, target sequence). It communicates with the Gemini Live API via WebSockets. When the user clicks a component, the frontend sends a silent `SYSTEM NOTIFICATION` text prompt to the AI, updating its context without breaking the audio immersion.
 
+## ☁️ Proof of Google Cloud Deployment
+
+This application was developed using Google AI Studio Build, which natively provisions and deploys the full-stack application directly to **Google Cloud Run**. 
+
+You can verify our active Google Cloud deployment by looking at our live demo URL, which is hosted on the official Cloud Run domain (`.run.app`):
+[https://ais-pre-5mwngptnrbw7plgf7d4a6q-12932369960.asia-east1.run.app](https://ais-pre-5mwngptnrbw7plgf7d4a6q-12932369960.asia-east1.run.app)
+
 ## 🛠️ Local Setup Instructions
 
 If you want to run this simulation locally:
