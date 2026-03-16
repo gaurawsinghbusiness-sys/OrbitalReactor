@@ -1,0 +1,8 @@
+{
+  "name": "Orbital Meltdown",
+  "description": "A global crisis simulation tracking the impact of geopolitical conflicts on environment, economy, and society.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
